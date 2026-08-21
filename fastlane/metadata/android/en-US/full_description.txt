@@ -1,0 +1,12 @@
+CipherPass is a privacy-first password manager with AES-256-GCM encryption. All data stays on your device. Zero cloud, zero telemetry.
+
+Features:
+
+- Secure password & credentials storage
+- Built-in password generator & strength analyzer
+- Security reports for weak and reused passwords
+- Fast filtering with categories and hashtag support
+- Biometric unlock (Fingerprint / Face)
+- Encrypted local backup & restore
+- Offline-only
+- Open source (MIT)

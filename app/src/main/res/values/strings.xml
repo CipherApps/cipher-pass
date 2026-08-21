@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CipherPass</string>
+    <string name="master_password_hint">Master password</string>
+    <string name="unlock_button">Unlock</string>
+    <string name="unlock_title">CipherPass</string>
+    <string name="unlock_subtitle">Enter your master password to unlock your vault</string>
+    <string name="vault_title">CipherPass</string>
+    <string name="entries_count">%d entries</string>
+    <string name="search_hint">Search vault…</string>
+    <string name="new_entry_button">New entry</string>
+    <string name="security_report">Security Report</string>
+    <string name="weak_passwords">%d weak passwords found</string>
+    <string name="reused_passwords">%d reused passwords found</string>
+    <string name="strong_passwords">%d strong &amp; unique</string>
+    <string name="generator_title">Password Generator</string>
+    <string name="entry_name">Name</string>
+    <string name="entry_username">Username / Email</string>
+    <string name="entry_password">Password</string>
+    <string name="entry_website">Website</string>
+    <string name="entry_category">Category</string>
+    <string name="entry_notes">Notes (optional)</string>
+    <string name="password_strength">Strength</string>
+    <string name="copy_button">Copy</string>
+    <string name="reveal_button">Reveal</string>
+    <string name="generate_button">Generate</string>
+    <string name="save_button">Save</string>
+    <string name="delete_button">Delete</string>
+    <string name="edit_button">Edit</string>
+    <string name="no_internet">No internet — by design.</string>
+</resources>

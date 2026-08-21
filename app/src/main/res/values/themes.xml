@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CipherPass" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/void_bg</item>
+        <item name="android:statusBarColor">@color/void_bg</item>
+        <item name="android:navigationBarColor">@color/void_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.CipherPass.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/void_bg</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.CipherPass</item>
+    </style>
+</resources>

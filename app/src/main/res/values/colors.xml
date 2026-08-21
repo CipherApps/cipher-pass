@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="void_bg">#FF080A0E</color>
+    <color name="accent">#FF00E5A0</color>
+    <color name="accent_dim">#1F00E5A0</color>
+    <color name="accent_light">#2600E5A0</color>
+
+    <color name="danger">#FFFF4D6A</color>
+    <color name="danger_light">#26FF4D6A</color>
+    <color name="warning">#FFFFB830</color>
+    <color name="warning_light">#26FFB830</color>
+    <color name="info">#FF3B9EFF</color>
+
+    <color name="text_light">#FFE8F0FA</color>
+    <color name="text_dim">#FF7A8FA8</color>
+    <color name="text_muted">#FF4A5A72</color>
+    <color name="text_very_muted">#FF2E3D55</color>
+
+    <color name="card_bg">#FF131820</color>
+    <color name="surface_dark">#FF1A2130</color>
+    <color name="border">#FF232D3F</color>
+    <color name="border_light">#FF2E3D55</color>
+
+    <color name="strength_strong">#FF00E5A0</color>
+    <color name="strength_moderate">#FF3B9EFF</color>
+    <color name="strength_weak">#FFFF4D6A</color>
+    <color name="strength_reused">#FFFFB830</color>
+</resources>
