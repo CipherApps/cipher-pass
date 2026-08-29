@@ -24,6 +24,7 @@ import dagger.hilt.android.AndroidEntryPoint
 import dev.cipher.pass.ui.screens.*
 import dev.cipher.pass.ui.theme.CipherTheme
 import dev.cipher.pass.ui.viewmodel.SettingsViewModel
+import android.view.WindowManager
 
 @AndroidEntryPoint
 class MainActivity : FragmentActivity() {
@@ -32,6 +33,11 @@ class MainActivity : FragmentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         installSplashScreen()
+
+        window.setFlags(
+            WindowManager.LayoutParams.FLAG_SECURE,
+            WindowManager.LayoutParams.FLAG_SECURE
+        )
 
         setContent {
             val useDynamicColors by settingsViewModel.useDynamicColors.collectAsState(initial = true)

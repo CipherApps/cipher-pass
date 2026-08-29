@@ -638,7 +638,7 @@ fun SettingsScreen(
                 )
                 Spacer(modifier = Modifier.height(2.dp))
                 Text(
-                    text = "Version 1.0.0",
+                    text = "Version 1.0.1",
                     fontSize = 12.sp,
                     color = onSurfaceVariant
                 )
