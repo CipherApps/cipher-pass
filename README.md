@@ -66,5 +66,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**CipherPass v1.0.0** - because your passwords are yours.  
+**CipherPass v1.0.1** - because your passwords are yours.  
 Built with Kotlin + Jetpack Compose. No telemetry. No cloud. No BS.
