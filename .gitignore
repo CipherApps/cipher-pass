@@ -26,3 +26,4 @@ Thumbs.db
 local.properties
 
 gradle/wrapper/gradle-wrapper.jar
+**/baselineProfiles/**/*.dm
