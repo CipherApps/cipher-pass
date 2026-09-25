@@ -47,7 +47,6 @@ All dependencies are FOSS and auditable:
 
 **Q: Will you add cloud sync?**
 - No. Not without changing the privacy model fundamentally.
-- Recommend: sync encrypted backups via Syncthing / Nextcloud locally.
 
 > **Enjoying CipherPass?** If you believe in local-first, encrypted, and open-source software, drop a ⭐ **Star** on this repository.
 
